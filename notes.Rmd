@@ -1,0 +1,11 @@
+---
+title: "Notes"
+---
+
+Throughout my undergraduate career, I have consistently typed up notes for many of the mathematics/statistics classes that I took. Here are a medley of them. I take full responsibility for any typos/mistakes that may be present in these notes - and I'm sure that there are many of them. Proceed with caution!
+
+## Mathematics
+
+### Analysis
+This was a three-quarter sequence on undergraduate real analysis. MATH 118A covered most of Abbott's *Understanding Analysis*, MATH 118B covered most of Rudin's *Principles of Mathematical Analysis*, and MATH 118C some of Stein & Shakarchi's *Fourier Analysis* before we switched gears to Royden & Fitzpatrick's *Real Analysis*.
+<a href="118ABC.pdf#" class="download" title="Real Analysis (Math 118ABC)">Real Analysis (MATH 118ABC)</a>		

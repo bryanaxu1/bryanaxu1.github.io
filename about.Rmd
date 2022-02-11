@@ -1,7 +1,6 @@
 ---
-title: "About me"
+title: "Teaching"
 ---
 
-## Header
+To be determined!
 
-Say more about you here.

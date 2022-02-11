@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my website!"
+title: "Bryan Xu's Homepage"
 ---
 
-You're up and running!
+
+![](picture.jpeg)
+
+Hi there! I am a first year Ph.D. student in the [Department of Statistics and Operations Research](stor.unc.edu) at the [University of Chicago](unc.edu). Prior to joining UChicago, I majored in Mathematics with a minor in Statistics at the [College of Creative Studies](ccs.ucsb.edu) at the [University of California, Santa Barbara](ucsb.edu).  
+

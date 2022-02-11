@@ -7,12 +7,15 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
+    - text: "Research"
+      icon: fa-book-bookmark
+      href: research.html
+    - text: "Notes"
+      icon: fa-notes
+      href: notes.html
+    - text: "Teaching"
+      icon: fa-chalkboard-user 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
@@ -24,3 +27,4 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
+    css: style.css

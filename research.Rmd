@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+My research interests lie broadly in the fields of Monte Carlo methods, stochastic differential equations, and  and their applications to mathematical finance and economics. 
+
+I have previously worked with [Dr. Tomoyuki Ichiba](http://ichiba.faculty.pstat.ucsb.edu/) and [Dr. Alexander Shkolnik](https://cdar.berkeley.edu/people/alex-shkolnik) on research projects pertaining to Malliavin calculus and James-Stein estimation. 
+
