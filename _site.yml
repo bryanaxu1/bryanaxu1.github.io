@@ -8,21 +8,21 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "Research"
-      icon: fa-book-bookmark
+      icon: fa-book
       href: research.html
     - text: "Notes"
-      icon: fa-notes
+      icon: fa-clipboard
       href: notes.html
     - text: "Teaching"
-      icon: fa-chalkboard-user 
+      icon: fa-school
       href: about.html
   right:
-    - text: "Contact me"
+    - text: "Contact Me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:bryanaxu@gmail.com                 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/bryanaxu1        
 output:
   html_document:
     theme: cosmo
