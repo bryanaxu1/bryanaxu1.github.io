@@ -5,7 +5,7 @@ title: "Bryan Xu's Homepage"
 
 ![](picture.jpeg)
 
-Hi there! I am a first year Ph.D. student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at the [University of North Carolina, Chapel Hill](https://unc.edu). Prior to joining UNC, I majored in Mathematics with a minor in Statistics at the [College of Creative Studies](https://ccs.ucsb.edu) at the [University of California, Santa Barbara](https://ucsb.edu). 
+Hi there! I am a first year Ph.D. student in the [Department of Statistics](https://statistics.uchicago.edu) at the [University of Chicago](https://uchicago.edu). Prior to joining UChicago, I majored in Mathematics with a minor in Statistics at the [College of Creative Studies](https://ccs.ucsb.edu) at the [University of California, Santa Barbara](https://ucsb.edu). 
 
 My research advisor is [Scott Tam](https://tenor.com/view/clown-nose-joker-funny-dropped-gif-23619188).
 
