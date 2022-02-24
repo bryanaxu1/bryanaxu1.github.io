@@ -5,21 +5,47 @@ title: "Notes"
 Throughout my undergraduate career, I have consistently typed up notes for many of the mathematics/statistics classes that I took. Here are a medley of them. I take full responsibility for any typos/mistakes that may be present in these notes - and I'm sure that there are many of them. Proceed with caution!
 
 ## Statistics 
-* PSTAT 207ABC
+* Statistical Theory (PSTAT 207ABC)
 
+This was a three-quarter sequence on graduate statistical theory. We covered most of Rohatgi and Saleh's *Introduction to Probability and Statistics*.
 
+<a href="207ABC.pdf#" class="download" title="207ABC">Statistical Theory (PSTAT 207ABC)</a>	
+
+* Probability and Stochastic Processes (PSTAT 213ABC)
+
+This was a three-quarter sequence on graduate probability theory and stochastic processes. We covered most of Grimmet and Stirzaker's *Probability and Random Processes*, with some interlude from Norris's *Markov Chains*.
+
+<a href="213ABC.pdf#" class="download" title="207ABC">Probability Theory (PSTAT 213ABC)</a>	
+
+* Applied Stochastic Processes (PSTAT 160B)
+
+This was a two-quarter sequence on undergraduate stochastic processes. We covered most of Dobrow's *Introduction to Stochastic Processes*.
+
+<a href="160AB.pdf#" class="download" title="160AB">Applied Stochastic Processes (PSTAT 160AB)</a>	
 
 ## Mathematics
 
 ### Analysis
-* MATH 118ABC
+* Measure Theory (MATH 201AB)
+This was a three-quarter sequence on graduate real analysis. MATH 201AB covered most of Evans' *Measure Theory and Fine Properties of Functions*.
 
-This was a three-quarter sequence on undergraduate real analysis. MATH 118A covered most of Abbott's *Understanding Analysis*, MATH 118B covered most of Rudin's *Principles of Mathematical Analysis*, and MATH 118C some of Stein & Shakarchi's *Fourier Analysis* before we switched gears to Royden & Fitzpatrick's *Real Analysis*.
+<a href="201ABC.pdf#" class="download" title="201ABC">Measure Theory (MATH 201ABC)</a>	
+
+
+* Real Analysis (MATH 118ABC)
+
+This was a three-quarter sequence on undergraduate real analysis. MATH 118A covered most of Abbott's *Understanding Analysis*, MATH 118B covered most of Rudin's *Principles of Mathematical Analysis*, and MATH 118C covered some of Stein & Shakarchi's *Fourier Analysis* before we switched gears to Royden & Fitzpatrick's *Real Analysis*.
 
 <a href="118ABC.pdf#" class="download" title="118ABC">Real Analysis (MATH 118ABC)</a>	
 
-* MATH CS 122AB
+* Complex Analysis (MATH CS 122AB)
 
 This was a two-quarter sequence on undergraduate complex analysis. We covered most of Gamelin's *Complex Analysis*.
 
 <a href="122AB.pdf#" class="download" title="122AB">Complex Analysis (MATH CS 122AB)</a>
+
+* Numerical Analysis (MATH 104ABC)
+
+This was a three-quarter sequence on undergraduate numerical analysis. We covered most of Kincaid and Cheney's *Numerical Analysis, Mathematics of Scientific Computing*.
+
+<a href="104ABC.pdf#" class="download" title="104ABC">Numerical Analysis (MATH 104ABC)</a>	
