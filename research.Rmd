@@ -1,7 +1,17 @@
 ---
 title: "Research"
 ---
-My research interests lie broadly in Monte Carlo methods and stochastic differential equations and their applications to mathematical finance and economics. 
+My research interests lie broadly in Monte Carlo methods and stochastic differential equations and their applications to mathematical finance and economics. Previously, I have:
 
-I have previously worked with [Dr. Tomoyuki Ichiba](http://ichiba.faculty.pstat.ucsb.edu/) (UCSB PSTAT) and [Dr. Alexander Shkolnik](https://cdar.berkeley.edu/people/alex-shkolnik) (UCSB PSTAT) on research projects pertaining to Malliavin calculus and James-Stein estimation. 
+* Worked with [Dr. Alexander Shkolnik](https://cdar.berkeley.edu/people/alex-shkolnik) (UCSB PSTAT) on a research project pertaining to James-Stein estimation and its application to classifying the political parties of individuals given their responses to certain partisan issues. Here you can find our research paper:
+
+<a href="Writeup.pdf#" class="download" title="JS">Comparing Estimation of the Political Party Classification Problem</a>	
+
+* Worked with [Dr. Tomoyuki Ichiba](http://ichiba.faculty.pstat.ucsb.edu/) (UCSB PSTAT) on a research project pertaining to Malliavin calculus and deep learning and their applications to pricing exotic options. Here you can find my research poster, presented at CCS RACA-CON 2021:
+
+<a href="Malliavin_Poster.pdf#" class="download" title="MalliavinGC">An Investigation into Greek Computations: Malliavin Estimators and Deep Learning</a>	
+
+* Worked with 
+
+
 
